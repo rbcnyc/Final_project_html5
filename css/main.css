@@ -130,6 +130,8 @@ body {
     height:100%;
 }
 
+
+
 /*section-main
 ================================================== */
 #section-main {
@@ -251,7 +253,11 @@ body {
       margin: 10px 000;
       line-height: normal;
       padding: 8px 10px;
-      font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+      font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+  }
+    a.button{
+        width: 50px;
+        }
 
     .button:hover,
     button:hover,
